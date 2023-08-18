@@ -1,0 +1,68 @@
+ body {
+   background-color: #BA704F;
+   color: #DFA878;
+   font-family: Arial;
+ }
+
+ h1 {
+   padding-top: 20px;
+   padding-bottom: 0;
+   font-size: 50px;
+   text-decoration: underline 2px;
+ }
+
+ .move-btn {
+   border-radius: 50%;
+   height: 140px;
+   width: 140px;
+   height: 140px;
+   border: none;
+   padding-right: 1px;
+   border: 5px solid black;
+ }
+
+ .move {
+   margin-top: 10px;
+   background-color: transparent;
+   border: none;
+   margin-right: 10px;
+ }
+
+ .container {
+   margin: auto;
+   margin-top: 50px;
+   width: 50%;
+   text-align: center;
+   background-color: #6C3428;
+   border: 5px solid;
+ }
+
+ .gameResult {
+   font-size: 50px;
+   font-weight: bold;
+   margin-top: 20px;
+   margin-bottom: 20px;
+ }
+
+ .gameMoves {
+   margin-top: 5px;
+   font-size: 30px;
+   font-weight: bolder;
+   margin-left: 10px;
+ }
+
+ .reset,
+ .AutoPlay {
+   border: none;
+   cursor: pointer;
+   border-radius: 2px;
+   padding: 10px;
+   margin-bottom: 20px;
+   color: #6C3428;
+   font-weight: bold;
+ }
+
+ .gameScore {
+
+   font-size: 25px;
+ }
